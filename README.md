@@ -29,7 +29,7 @@ run_prediction.py
 ```
 This will create a "fep.dat" file in the "\prediction\" sub-folder. The file contains predicted free energy values and is formatted the same way as the "fe.dat" file
 
-### 3. Prediction analysis
+### 4. Prediction analysis
 To display obtained results and compare them (if available) with "fe.data" of the "\prediction\" structures, run from the "fep" directory:
 ```
 run_prediction_analysis.py
