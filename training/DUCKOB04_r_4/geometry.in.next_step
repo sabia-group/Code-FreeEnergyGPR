@@ -1,0 +1,43 @@
+# 
+# This is the geometry file that corresponds to the current relaxation step.
+# If you do not want this file to be written, set the "write_restart_geometry" flag to .false.
+#  aims_uuid : 86B715DC-F47C-4D3C-A508-66F98D4BE5BE                                
+# 
+lattice_vector      5.70564078      0.00000000      0.00000000
+lattice_vector     -0.10361877      5.57067706      0.00000000
+lattice_vector     -3.44137146     -0.40694478      7.69293966
+atom      -0.30550015      1.16864568      3.57210944 C
+atom       2.37154388      4.09033895      4.38363285 C
+atom       4.12648569      4.16439996      0.56855190 C
+atom      -2.06030953      1.09456531      7.38728847 C
+atom       0.52420137      0.17191662      4.38212147 C
+atom       1.54187666      5.08711772      3.57364756 C
+atom      -0.10796233      2.74316063      7.43881431 C
+atom       2.17413204      2.51582149      0.51701203 C
+atom      -1.09560570      1.62607178      4.18601926 H
+atom       3.16175148      3.63304379      3.76975617 H
+atom       1.50760896      4.19364344      7.67588532 H
+atom       0.55856394      1.06533584      0.27996119 H
+atom      -0.79018157      0.67516204      2.71485073 H
+atom       2.85609277      4.58374336      5.24101230 H
+atom       4.56454975      3.69270344      1.46315057 H
+atom      -2.49836839      1.56624146      6.49267655 H
+atom       0.32399219      1.98073420      3.17440651 H
+atom       1.74205852      3.27815653      4.78115545 H
+atom       3.48250614      4.98992684      0.91172472 H
+atom      -1.41632826      0.26903070      7.04413808 H
+atom       0.96188869      0.67929520      5.25954964 H
+atom       1.10420184      4.57978437      2.69618713 H
+atom      -0.50234057      3.22968573      6.52851019 H
+atom       2.56851104      2.02931147      1.42732367 H
+atom      -0.13699244     -0.61441498      4.78720560 H
+atom       2.30671115      0.30277920      3.16861350 H
+atom       0.56966945      1.94650860      7.08641933 H
+atom       1.49649527      3.31247458      0.86939497 H
+# 
+# What follows is the current estimated Hessian matrix constructed by the BFGS algorithm.
+# This is NOT the true Hessian matrix of the system.
+# If you do not want this information here, switch it off using the "hessian_to_restart_geometry" keyword.
+# 
+trust_radius             0.1046737818
+hessian_file
