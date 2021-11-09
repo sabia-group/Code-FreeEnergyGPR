@@ -1,5 +1,6 @@
 # fep
 This is a fully functional part of the free energy prediction code that allows for generating soap descriptors, optimization of the model parameters of prediction.
+If used, please cite: https://www.nature.com/articles/s41524-021-00638-x
 
 
 ## Installation
