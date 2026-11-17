@@ -4,7 +4,7 @@ If used, please cite: https://www.nature.com/articles/s41524-021-00638-x
 
 
 ## Installation
-The framework requires standard python3 release (like Anaconda with numpy, etc) as well as Dscribe (https://github.com/SINGROUP/dscribe) for the computation of the SOAP descriptor. 
+Install with [uv](https://docs.astral.sh/uv/): `uv sync` (dependencies: numpy, ase, dscribe). Run scripts with `uv run python run_desc_generator.py`; run tests with `uv run pytest`.
 
 
 ## Operation
